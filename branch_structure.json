@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1683-un-quarantine-lib-otel-and-lib-requestid-suites",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1683-un-quarantine-lib-otel-and-lib-requestid-suites": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1683-un-quarantine-lib-otel-and-lib-requestid-suites",
+    "origin"
+  ]
+}
